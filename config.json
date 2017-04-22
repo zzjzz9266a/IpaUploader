@@ -1,0 +1,17 @@
+{
+  "BaseConfig": {
+    "Project_Name":"GongFaner",
+    "Directory_Name":"gongfaner-iOS",
+    "Configuration": "Debug",
+    "emailFromUser": "zhangzhiejie@zhufaner.com",
+    "emailPassword": "ZZJzz616119",
+    "emailToUser": "majie@zhufaner.com"
+  },
+  "MessageConfig": {
+    "AppKey": "3b58f9dea5fd9a7c06651ee8f691ef1f",   
+    "AppSecret": "c918d84e1a6c",
+    "Mobiles": ["15701572837"],
+    "TemplateID" : "1278"
+  },
+  "Fir_Token": "Fir_Token"
+}
