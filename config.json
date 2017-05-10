@@ -1,17 +1,20 @@
 {
   "BaseConfig": {
-    "Project_Name":"GongFaner",
-    "Directory_Name":"gongfaner-iOS",
+    "Project_Name": "项目名",
+    "Directory_Name": "目录",
     "Configuration": "Debug",
-    "emailFromUser": "zhangzhiejie@zhufaner.com",
-    "emailPassword": "ZZJzz616119",
-    "emailToUser": "majie@zhufaner.com"
+    "Email_From": "mayun@taobao.com",
+    "Email_Password": "wojiushiyouqian",
+    "Email_To": "mahuatent@qq.com",
+    "Email_Smtp": "smtp.mxhichina.com"
   },
   "MessageConfig": {
-    "AppKey": "3b58f9dea5fd9a7c06651ee8f691ef1f",   
-    "AppSecret": "c918d84e1a6c",
-    "Mobiles": ["15701572837"],
-    "TemplateID" : "1278"
+    "AppKey": "123456789",
+    "AppSecret": "123456789",
+    "Mobiles": [
+      "123456789"
+    ],
+    "TemplateID": "1278"
   },
-  "Fir_Token": "Fir_Token"
+  "Fir_Token": "123456789"
 }
